@@ -18,7 +18,8 @@ wie Diegramme halt so helfen
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+doesn't fucking work
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
-
+Wenn man nur was hinzugefügt hat, mag die Automatik ok sein.
